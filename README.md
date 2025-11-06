@@ -21,6 +21,8 @@
 
 압축을 푼 파일을 문서(Document) 폴더 또는 작업폴더(working directory)로 옮겨줍니다.
 
+PWD: qwer4321
+
 ---------
 # 각종 링크 모음
 ### [Blog]
